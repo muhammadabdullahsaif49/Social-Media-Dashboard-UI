@@ -59,16 +59,17 @@ social-media-dashboard/
 
 ---
 
-## 📸 Preview
+## 📸 Screenshot
 
-![Social Media Dashboard](new.png)
+![WhatsApp Image 2025-07-14 at 6 53 31 AM](https://github.com/user-attachments/assets/167d24eb-874f-4b71-8245-01677dddbd7d)
+
 
 ---
 
 ## 👤 Author
 
 **Muhammad**  
-GitHub: [@yourusername](https://github.com/yourusername)
+GitHub: [@CHAUDHARY49](https://github.com/CHAUDHARY49)
 
 ---
 
